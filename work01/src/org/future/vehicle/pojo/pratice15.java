@@ -1,0 +1,10 @@
+package org.future.vehicle.pojo;
+
+public class pratice15 {
+
+}
+/*
+ * 是通配符，指的是包下的所有子包内容，
+ import java.util.Scanner只会导Scanner类，你所建的类中只能用util中的Scanner类
+ import java.util.*用到util中哪个类就会加载哪个类
+*/

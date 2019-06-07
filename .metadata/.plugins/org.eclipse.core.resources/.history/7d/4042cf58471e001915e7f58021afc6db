@@ -1,0 +1,12 @@
+package cn.algerfan.student;
+
+public class love {
+	public static void main(String[] args) {
+		System.out.println(".___  .____                         __      __    ____.____  ___");
+		System.out.println("|   | |    |    _______  __ ____   /  \    /  \  |    |\   \/  /");
+		System.out.println("|   | |    |   /  _ \  \/ // __ \  \   \/\/   /  |    | \     / ");
+		System.out.println("|   | |    |__(  <_> )   /\  ___/   \        /\__|    | /     \ ");
+		System.out.println("|___| |_______ \____/ \_/  \___  >   \__/\  /\________|/___/\  \");
+		System.out.println("              \/               \/         \/                 \_/");
+	}
+}
